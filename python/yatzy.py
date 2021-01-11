@@ -175,6 +175,3 @@ class Yatzy:
             return sum
         else:
             return 0
-
-if __name__ == "__main__":
-        assert 0 == Yatzy.fullHouse(2,3,4,5,6)
